@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Matheus Manhezi!
 
 ## 🚀 Sobre Mim
-Sou desenvolvedor full stack, apaixonado por arquitetura de software, DevOps e automação. Trabalho com:
+Sou desenvolvedor DevOps e automação. Trabalho com:
 - AWS, Terraform, Docker
 - Node.js
 - CI/CD com GitHub Actions e segurança na nuvem
