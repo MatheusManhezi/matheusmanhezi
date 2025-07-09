@@ -1,61 +1,81 @@
 <img align="right" height="200" src="" />
 
-# 🧙‍♂️ Matheus Manhezi - Mago(Especialista:DevOps)
+# 🧙‍♂️ Matheus Manhezi - Mago (Especialista: DevOps)
 
-> *"Na vastidão da nuvem, cada commit é um feitiço e cada deploy um desafio."*
+> *\"Na vastidão da nuvem, cada commit é um feitiço e cada deploy um desafio.\"*
 
 ---
 
 ## 🎲 Ficha de Personagem
 
-| Atributo              | Valor |
-|-----------------------|-------|
-| 🗡️ Força        | 11    |
-| ⚙️ Destreza | 13    |
-| 🛡️ Constituição | 10    |
-| 🧠 Inteligência     | 18    |
-| 💬 Sabedoria         | 10    |
-| 🍀 Carisma    | 11     |
+| Atributo        | Valor | Modificador |
+|-----------------|-------|-------------|
+| 🗡️ Força        | 11    | +0          |
+| ⚙️ Destreza     | 13    | +1          |
+| 🛡️ Constituição | 10    | +0          |
+| 🧠 Inteligência | 18    | +4 (principal) |
+| 💬 Sabedoria    | 10    | +0          |
+| 🍀 Carisma      | 11    | +0          |
+
+- **Nível:** 9 (Mago Especialista)
+- **Alinhamento:** Neutro Criativo
+- **Escola de Magia:** DevOps
+- **Idiomas:** Bash, YAML, TypeScript, JSON, CloudFormation, Terraform
+- **Pontos de Vida:** 35
+- **CA (Classe de Armadura):** 6 (vestes encantadas)
 
 ---
 
 ## 🛡️ Classe & Origem
 
-- **Classe:** Arquiteto Full Stack / DevOps
+- **Classe:** Mago (Especialista em DevOps)
 - **Raça:** Humano
 - **Guilda:** Cloud Builders
 - **Localização:** São Paulo, Brasil
-  
+- **Deus Patrono:** Turing, o Tecelão dos Códigos
 
 ---
 
 ## 📜 História
 
-🔭 Em constante evolução com **Kubernetes, Observabilidade e Segurança AWS**  
-🎯 Missão: Automatizar processos e construir infraestruturas resilientes e seguras 
-🎲 Curiosidade: Já enfrentou um deploy caótico em produção às 23h e sobreviveu para contar a história
+🔭 Mestre autodidata, moldado pela prática e pela persistência.\
+⚙️ Aprimorando feitiços com **Kubernetes**, **Observabilidade** e **Segurança AWS**.\
+🎯 Missão: Automatizar processos, proteger reinos (ambientes) e construir infraestruturas resilientes.\
+🎲 Curiosidade: Enfrentou um deploy crítico em produção às 23h... e sobreviveu sem rollback.
 
 ---
 
-## ⚔️ Skills & Ferramentas
+## 📚 Grimoire de Skills & Ferramentas
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" />
 </div>
+
+---
+
+## ✨ Magias Conhecidas (Slots por Nível)
+
+| Nível | Magias Conhecidas | Usos por dia |
+|------|--------------------|--------------|
+| 1º   | `lint`, `audit`, `format` | 5 |
+| 2º   | `deploy`, `rollback`, `monitoring` | 4 |
+| 3º   | `optimizePipeline`, `scaleCluster` | 3 |
+| 4º   | `secureSecrets`, `autoHealing` | 2 |
+| 5º   | `disasterRecovery`, `failoverZone` | 1 |
 
 ---
 
@@ -71,48 +91,41 @@
 
 ## 🏆 Conquistas
 
-- Terá
+- Sobrevivente do Deploy Noturno (🔥 Desafio Épico)
 
 ---
 
 ## 🎒 Inventário do Aventureiro
 
-- 🖥️ Pc da xuxa
-- 🔧 VSCode + DBeaver + Postman
-- 🤖 Copilot AI / ChatGPT
-
----
-
-## 🧙‍♂️ Magias Favoritas
-
-- 🔥 deploy() - Invoca uma aplicação direto no campo de batalha (AWS)
-- ⚡ optimizePipeline() - Reduz o tempo de CI/CD em até 50%
-- 🧹 cleanCode() - Remove bugs e dívidas técnicas com eficiência
+- 🖥️ Pc da Xuxa (precisa de upgrade +1)
+- 🔧 Ferramentas: VSCode, DBeaver, Postman
+- 🤖 Companheiros: Copilot AI, ChatGPT
 
 ---
 
 ## 🤝 Aliados
 
-- 🛡️ **GitHub Actions** - fiel companheiro nas batalhas diárias de automação
-- 🔐 **Vault** - guardião dos segredos mais valiosos
-- 🛠️ **Terraform** - moldador das terras da nuvem
+- 🛡️ **GitHub Actions** - Escudeiro fiel nas automações diárias
+- 🔐 **Vault** - Guardião dos segredos
+- 🛠️ **Terraform** - Forjador dos ambientes místicos
 
 ---
 
 ## ☠️ Inimigos
 
-- 🐛 Bugs inesperados às 3h da manhã
-- 🔥 Deploys em sexta-feira
-- 🌪️ Falhas de configuração em produção
+- 🐛 Bugs traiçoeiros nas madrugadas
+- 🔥 Deploys em sextas-feiras 18h
+- 🌪️ Falhas de configuração sem logs
 
 ---
 
-## 🎯 Missões em Andamento
+## 🎯 Missões Atuais
 
 - 🚀 Automatizar pipelines CI/CD multi-cloud
-- 🌐 Contribuir para projetos Open Source de infraestrutura
-- 🛡️ Ajudar empresas a escalar com segurança na nuvem
+- 🌐 Contribuir para projetos Open Source
+- 🛡️ Fortalecer pequenas guildas (empresas) com segurança e eficiência
 
 ---
 
 > *\"Um mago nunca se atrasa, nem se adianta, ele chega exatamente quando pretende chegar!\"*
+
