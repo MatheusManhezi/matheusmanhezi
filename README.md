@@ -20,14 +20,12 @@
 ---
 
 ## 🛡️ Classe & Origem
-<pre>
 
 - **Classe:** Arquiteto Full Stack / DevOps
 - **Raça:** Humano
 - **Guilda:** Cloud Builders
 - **Localização:** São Paulo, Brasil
   
-</pre>
 
 ---
 
