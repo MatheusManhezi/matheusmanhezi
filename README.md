@@ -10,12 +10,12 @@
 
 | Atributo              | Valor |
 |-----------------------|-------|
-| 🧠 Inteligência        | 18    |
-| ⚙️ Habilidade Técnica | 17    |
-| 🛡️ Defesa (Security) | 16    |
-| 🗡️ Ataque (Debug)     | 15    |
-| 💬 Comunicação         | 12    |
-| 🍀 Sorte (Deploys)    | 7     |
+| 🗡️ Força        | 11    |
+| ⚙️ Destreza | 13    |
+| 🛡️ Constituição | 10    |
+| 🧠 Inteligência     | 18    |
+| 💬 Sabedoria         | 10    |
+| 🍀 Carisma    | 11     |
 
 ---
 
