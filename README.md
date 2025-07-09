@@ -18,7 +18,7 @@
 | 🍀 Carisma      | 11    | +0          |
 
 - **Nível:** 9 (Mago Especialista)
-- **Alinhamento:** Neutro Criativo
+- **Alinhamento:** Caótico Bom
 - **Escola de Magia:** DevOps
 - **Idiomas:** Bash, YAML, TypeScript, JSON, CloudFormation, Terraform
 - **Pontos de Vida:** 35
@@ -91,6 +91,8 @@
 
 ## 🏆 Conquistas
 
+- AWS Certified Solutions Architect (🛡️ Magia Maior da Nuvem)
+- Terraform Associate (⚙️ Conjurador da Infraestrutura)
 - Sobrevivente do Deploy Noturno (🔥 Desafio Épico)
 
 ---
