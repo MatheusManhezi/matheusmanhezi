@@ -1,4 +1,6 @@
-<div style="background-color: #cde6e6; background-image: url('https://www.transparenttextures.com/patterns/paper-fibers.png'); padding: 20px; border: 1px solid #ccc; border-radius: 4px;">
+<p align="center">
+  <img src="https://www.transparenttextures.com/patterns/paper-fibers.png" width="100%" alt="background" />
+</p>
 
 <img align="right" height="200" src="" />
 
@@ -128,5 +130,3 @@
 ---
 
 > *\"Um mago nunca se atrasa, nem se adianta, ele chega exatamente quando pretende chegar!\"*
-
-</div>
