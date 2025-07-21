@@ -30,7 +30,7 @@
 - **Raça:** Humano
 - **Guilda:** Cloud Builders
 - **Localização:** São Paulo, Brasil
-- **Deus Patrono:** Turing, o Tecelão dos Códigos
+- **Deus Patrono:** Sehanine Moonbow
 
 ---
 
