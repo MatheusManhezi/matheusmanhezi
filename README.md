@@ -80,8 +80,6 @@
 
 ## 🏆 Conquistas
 
-- AWS Certified Solutions Architect (🛡️ Magia Maior da Nuvem)
-- Terraform Associate (⚙️ Conjurador da Infraestrutura)
 - Sobrevivente do Deploy Noturno (🔥 Desafio Épico)
 
 ---
