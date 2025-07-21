@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://www.transparenttextures.com/patterns/paper-fibers.png" width="100%" alt="background" />
-</p>
-
-<img align="right" height="200" src="" />
-
 # 🧙‍♂️ Matheus Manhezi - Mago (Especialista: DevOps)
 
 > *\"Na vastidão da nuvem, cada commit é um feitiço e cada deploy um desafio.\"*
@@ -81,11 +75,6 @@
 
 ## 🗺️ Mapa de Exploração
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusManhezi/MatheusManhezi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusManhezi/MatheusManhezi/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/MatheusManhezi/MatheusManhezi/output/snake.svg" alt="Snake animation" />
-</picture>
 
 ---
 
